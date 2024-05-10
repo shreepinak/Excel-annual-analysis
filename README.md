@@ -1,4 +1,4 @@
-# Excel-annual-analysis
+# Excel-Vijaya stores-annual-analysis
 
 **Objective:** The management of Vijaya stores has created annual analysis report for 2022 to get useful information for future strategic prospects.
 
